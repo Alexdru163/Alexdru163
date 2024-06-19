@@ -72,7 +72,6 @@
 |[В данном проекте реализован анализ продуктовых метрик.](https://github.com/Alexdru163/AppMetrica)|Работа выполнена на Python с использованием Jupyter Notebook. Также применяется Tableau.|**Pandas** **Tableau**|
 |[В этом блоке представлены мои решения задач по SQL](https://github.com/Alexdru163/SQL)|Группировка и агрегатные функции, объединение таблиц – JOIN Типы данных и их преобразование, подзапросы, представления, создание таблиц, ETL (Python + SQL)Графики, дашборды и мониторинг и Оконные функции.|**Pandas** **Numpy** **Scipy** **SQL**|
 |[В данном проекте реализован проект e-commerce.](https://github.com/Alexdru163/-e-commerce)|Работа выполнена на Python с использованием Jupyter Notebook.|**Pandas** **Numpy** |
-|[Исследуем набор карт Magic The Gathering](https://github.com/DimDolino/Magic_the_Gathering)|Обрабатываем данные, формируем графики для ответа на вопросы о составе набора для выпуска нового дополнения к игре|**Pandas** **Numpy** **Ast**|
 |Создаем Дашборд для визуализации ключевых процессов в [Tableau](https://public.tableau.com/app/profile/alexandr.druzhinin/viz/KarpovDashboardPracticeDruzhinin/Dashboard1?publish=yes) |**Tableau** **Datalens**|
 
 <!--
